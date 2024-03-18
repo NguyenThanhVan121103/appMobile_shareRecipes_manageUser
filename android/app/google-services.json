@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "487819861323",
+    "firebase_url": "https://dagourmet-8098e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dagourmet-8098e",
+    "storage_bucket": "dagourmet-8098e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487819861323:android:e29b4dfe0945d056591cce",
+        "android_client_info": {
+          "package_name": "com.firebase.da_gourmet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnjqQxqW5UNcCpxwOFZRBYgfLWkq5c9ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
